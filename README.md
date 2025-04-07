@@ -1,7 +1,7 @@
 # Location-Based-CAPTCHA-Enhancing-Bot-Detection-Using-Live-Geolocation-Autofill
 
 ## Overview
-This repository contains the **web-based code** for the research paper **"Location-Based CAPTCHA: Enhancing Bot Detection Using Live Geolocation Autofill"**, presented at the **2024 IEEE 16th International Conference on Computational Intelligence and Communication Networks (CICN)**. The project introduces a novel CAPTCHA system that utilizes **live geolocation data** to detect bots, improving both **security** and **user experience**.
+This repository contains the **web-based code** for the research paper **"Location-Based CAPTCHA: Enhancing Bot Detection Using Live Geolocation Autofill"**, published in **2024 IEEE 16th International Conference on Computational Intelligence and Communication Networks (CICN)**. The project introduces a novel CAPTCHA system that utilizes **live geolocation data** to detect bots, improving both **security** and **user experience**.
 
 ## Features
 - Uses **HTML5 Geolocation API** to autofill user location.
