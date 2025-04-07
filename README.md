@@ -32,7 +32,7 @@ No external dataset is required. The CAPTCHA system works dynamically using the 
 If you use this work in your research or publication, please cite:
 
     @inproceedings{pathak2024location,
-      author    = {Anurag Pathak and Kshitiz Verma},
+      author    = {Anurag Pathak and Sandeep Rathor},
       title     = {Location-Based CAPTCHA: Enhancing Bot Detection Using Live Geolocation Autofill},
       booktitle = {2024 IEEE 16th International Conference on Computational Intelligence and Communication Networks (CICN)},
       year      = {2024},
