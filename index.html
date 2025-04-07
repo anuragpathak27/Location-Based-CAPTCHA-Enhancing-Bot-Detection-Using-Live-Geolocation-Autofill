@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form id="userForm">
+        <input type="text" id="username" placeholder="Username" required>
+        <input type="password" id="password" placeholder="Password" required>
+        <input type="text" id="address" placeholder="Address" required readonly>
+        <div id="locationMessage" style="margin: 10px 0; font-size: 16px;"></div> <!-- Moved this here -->
+        <button id="submitButton" type="submit" disabled style="background-color: #ccc;">Submit</button>
+    </form>
+
+    <script src="script.js"></script>
+</body>
+</html>
