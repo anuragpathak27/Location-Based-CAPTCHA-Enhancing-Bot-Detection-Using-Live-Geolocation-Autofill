@@ -31,7 +31,6 @@ No external dataset is required. The CAPTCHA system works dynamically using the 
 ## Citation
 If you use this work in your research or publication, please cite:
 
-    ```bash
     @inproceedings{pathak2024location,
       author    = {Anurag Pathak and Kshitiz Verma},
       title     = {Location-Based CAPTCHA: Enhancing Bot Detection Using Live Geolocation Autofill},
